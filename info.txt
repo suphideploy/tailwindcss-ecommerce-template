@@ -8,3 +8,11 @@ Ecommerce Design with Thailwindcss
 5. Header
 cdnjs page (Font-Awesome)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />\
+6. Navbar
+7. Dropdown
+ - tailwindcss.com/docs/hover-focus-and-other-states
+ - Define in tailwind.config.js
+8. Banner
+9. Categories
+10.product-section
+11. Shop-page
